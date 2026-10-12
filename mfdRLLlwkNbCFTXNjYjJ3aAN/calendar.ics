@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Greta//Main Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Main Calendar (trips & events)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81c8a013c2bf8fa48caf@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260601
+SUMMARY:Michelstädter Bienenmarkt (Pentecost town festival)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 8176871ddba7a28c13cf
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81bbaa2cd21c92dca127@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:Mittelalterliches Spectaculum ('Esse Vosolvia')
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81be99fff1ce645fc441
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81bcbe67e758281a724b@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Historic Geißbockversteigerung (goat auction tradition with Lambre
+ cht)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 818392c4dc09fbd5f6b5
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef816b9efefa89c51c44e9@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260714
+SUMMARY:Moselwein-Festival on the Trarbach riverbank\, incl. 'Unterwelt' ce
+ llar wine tasting
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81ce84c7d4f62618e0a7
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef810a8d39f53bdeeedf14@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260721
+SUMMARY:Stadtmauerfest along the town wall
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 818da0d4d1d7366f76f6
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef8178b111d09297efeef4@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260803
+SUMMARY:Belcanto Opera Festival 'Rossini in Wildbad'
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81d1b07ffd4c9bfc0e0c
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef817cb537d246038aa3b2@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260819
+SUMMARY:Deidesheimer Weinkerwe with open wine courtyards
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81c68c94d929f8883d15
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef816c8801eaed9001b414@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260908
+SUMMARY:Weinfest der Mittelmosel – wine street\, parade (Sun)\, fireworks
+  (Sat)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 8174afa7dc387a40f791
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81c2bebdd39eddb710d4@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260915
+SUMMARY:Oberweseler Weinmarkt (normally with 'Rhein in Flammen' fireworks)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 8194a2adcae62f2d1e3a
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:place-3f6ff850d5ef81238e5fde1fa87e6919@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+SUMMARY:St. Wendel stay (8/10)
+LOCATION:
+DESCRIPTION:Feed: Long weekends · Status: Done\nNotion: https://app.notion
+ .com/3f7ff850d5ef813da0cef8d4d477ba87
+CATEGORIES:Long weekends
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:place-3f6ff850d5ef81e6ab5ff60873cf18cb@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:🎃 Halloween in St. Wendel
+LOCATION:
+DESCRIPTION:Feed: Long weekends · Status: Booked\nNotion: https://app.noti
+ on.com/3f7ff850d5ef8121ae1bfe99a0b8dd61
+CATEGORIES:Long weekends
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef8166a5e4c44e9ea7c776@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+SUMMARY:Kappeskerb & Weinlesefest\, Eltville
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81f8825cf8abc6533331
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81229f2ef7d4b21cbbf7@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20270103
+SUMMARY:Mosel-Wein-Nachts-Markt – Germany's only underground Christmas ma
+ rket\, in historic wine cellars
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 8103806ef1b894587c0a
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef814281d8d62f38076dec@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtsmarkt in the old-town lanes (giant Advent calendar\, torc
+ h swim 5 Dec)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 819ebfacdde142642070
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef814481b1c9f402545b44@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261221
+SUMMARY:Deidesheimer Advent (Christmas market)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 8115b037c725d976db53
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef8188b216eb7d9cc0dff0@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Freinsheimer Weihnachtsmarkt
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 813ea935c750b64388a2
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81ff922fd927b14d4752@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261224
+SUMMARY:Gengenbacher Adventsmarkt on the historic market square
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81a284e1cb623d2b3431
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef811c9ff7c72bf1e50f97@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261221
+SUMMARY:Michelstädter Weihnachtsmarkt
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81d6a4eaf1647eded7ee
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef818c8573f97ee0879b9d@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261214
+SUMMARY:Eltviller Weihnachtsmarkt & Eberbacher Weihnacht
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81ba869adbedf7e945c4
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef8145be4ecfea81b787ac@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Schlender-Advent on the historic market square
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81f2a6f6fab93aad56c2
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef810f9e3fc84c943f1efc@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+SUMMARY:Bad Wildbader Weihnachtsmarkt (Kurpark\, Trinkhallenplatz)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81db9517f17f90da85ec
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef8180ad86ce69bafd0688@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+SUMMARY:Vierthälermarkt – medieval market on the Rhine promenade (every 
+ two years)
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81349e6fd6be58b78ff3
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81b595ecccc8eb87b28a@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:Steeger Weinblütenfest
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 815b9266ccdc58633d9f
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f6ff850d5ef81bf8036ccfb43104aae@greta-main-calendar
+DTSTAMP:20261012T004923Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270706
+SUMMARY:Sekt- und Biedermeierfest\, Eltville riverbank & castle rose garden
+LOCATION:
+DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
+ 81b99babd87d8b832ad3
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
