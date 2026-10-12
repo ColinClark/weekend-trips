@@ -7,295 +7,558 @@ X-WR-CALNAME:Main Calendar (trips & events)
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef81c8a013c2bf8fa48caf@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260601
 SUMMARY:Michelstädter Bienenmarkt (Pentecost town festival)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 8176871ddba7a28c13cf
+LOCATION:Michelstadt (Odenwald)
+DESCRIPTION:Town festival · Around Pentecost (2026: 22–31 May)\nhttps://
+ www.michelstadt.de/feste-maerkte/\nFeed: Local events\nNotion: https://app
+ .notion.com/3f7ff850d5ef8176871ddba7a28c13cf
+URL:https://www.michelstadt.de/feste-maerkte/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef81bbaa2cd21c92dca127@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
 SUMMARY:Mittelalterliches Spectaculum ('Esse Vosolvia')
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81be99fff1ce645fc441
+LOCATION:Oberwesel (Middle Rhine)
+DESCRIPTION:Medieval · Pentecost weekend (2026: smaller Hoffest 23–24 Ma
+ y)\nhttps://www.mittelalterliches-spectaculum.de/\nFeed: Local events\nNot
+ ion: https://app.notion.com/3f7ff850d5ef81be99fff1ce645fc441
+URL:https://www.mittelalterliches-spectaculum.de/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef81bcbe67e758281a724b@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Historic Geißbockversteigerung (goat auction tradition with Lambre
  cht)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 818392c4dc09fbd5f6b5
+LOCATION:Deidesheim (Pfalz)
+DESCRIPTION:Tradition · Pentecost Tuesday (2026: 26 May)\nhttps://www.deid
+ esheim.de/veranstaltungen/gei%C3%9Fbocktradition_historische_gei%C3%9Fbock
+ versteigerung.html\nFeed: Local events\nNotion: https://app.notion.com/3f7
+ ff850d5ef818392c4dc09fbd5f6b5
+URL:https://www.deidesheim.de/veranstaltungen/gei%C3%9Fbocktradition_histor
+ ische_gei%C3%9Fbockversteigerung.html
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef816b9efefa89c51c44e9@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260714
 SUMMARY:Moselwein-Festival on the Trarbach riverbank\, incl. 'Unterwelt' ce
  llar wine tasting
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81ce84c7d4f62618e0a7
+LOCATION:Traben-Trarbach (Mosel)
+DESCRIPTION:Wine festival · July (2026: 10–13 Jul)\nhttps://www.traben-t
+ rarbach.de/de/moselweinfestival.html\nFeed: Local events\nNotion: https://
+ app.notion.com/3f7ff850d5ef81ce84c7d4f62618e0a7
+URL:https://www.traben-trarbach.de/de/moselweinfestival.html
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef810a8d39f53bdeeedf14@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260721
 SUMMARY:Stadtmauerfest along the town wall
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 818da0d4d1d7366f76f6
+LOCATION:Freinsheim (Pfalz)
+DESCRIPTION:Town festival · July (2026: 17–20 Jul)\nhttps://www.urlaubsr
+ egion-freinsheim.de/de/veranstaltung/stadtmauerfest\nFeed: Local events\nN
+ otion: https://app.notion.com/3f7ff850d5ef818da0d4d1d7366f76f6
+URL:https://www.urlaubsregion-freinsheim.de/de/veranstaltung/stadtmauerfest
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef8178b111d09297efeef4@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260803
 SUMMARY:Belcanto Opera Festival 'Rossini in Wildbad'
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81d1b07ffd4c9bfc0e0c
+LOCATION:Bad Wildbad (Northern Black Forest)
+DESCRIPTION:Music · Late July – early August (2026: 23 Jul – 2 Aug)\nh
+ ttps://rossini-in-wildbad.de/\nFeed: Local events\nNotion: https://app.not
+ ion.com/3f7ff850d5ef81d1b07ffd4c9bfc0e0c
+URL:https://rossini-in-wildbad.de/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef817cb537d246038aa3b2@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260819
 SUMMARY:Deidesheimer Weinkerwe with open wine courtyards
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81c68c94d929f8883d15
+LOCATION:Deidesheim (Pfalz)
+DESCRIPTION:Wine festival · Two weekends in August (2026: 7–11 & 14–18
+  Aug)\nhttps://www.deidesheim.de/veranstaltungen/deidesheimer-weinkerwe.ht
+ ml\nFeed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef81c68c9
+ 4d929f8883d15
+URL:https://www.deidesheim.de/veranstaltungen/deidesheimer-weinkerwe.html
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef816c8801eaed9001b414@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260908
 SUMMARY:Weinfest der Mittelmosel – wine street\, parade (Sun)\, fireworks
   (Sat)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 8174afa7dc387a40f791
+LOCATION:Bernkastel-Kues (Mosel)
+DESCRIPTION:Wine festival · 5 days around the first Sunday in September (2
+ 026: 3–7 Sep)\nhttps://www.bernkastel.de/bernkastel-kues/kues/weinfest-d
+ er-mittelmosel-in-bernkast/event.html\nFeed: Local events\nNotion: https:/
+ /app.notion.com/3f7ff850d5ef8174afa7dc387a40f791
+URL:https://www.bernkastel.de/bernkastel-kues/kues/weinfest-der-mittelmosel
+ -in-bernkast/event.html
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef81c2bebdd39eddb710d4@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260915
 SUMMARY:Oberweseler Weinmarkt (normally with 'Rhein in Flammen' fireworks)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 8194a2adcae62f2d1e3a
+LOCATION:Oberwesel (Middle Rhine)
+DESCRIPTION:Wine festival · September (2026: 10–14 Sep)\nhttps://oberwes
+ el.de/\nFeed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef819
+ 4a2adcae62f2d1e3a
+URL:https://oberwesel.de/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:place-3f6ff850d5ef81238e5fde1fa87e6919@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261001
 SUMMARY:St. Wendel stay (8/10)
-LOCATION:
-DESCRIPTION:Feed: Long weekends · Status: Done\nNotion: https://app.notion
- .com/3f7ff850d5ef813da0cef8d4d477ba87
-CATEGORIES:Long weekends
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:place-3f6ff850d5ef81e6ab5ff60873cf18cb@greta-main-calendar
-DTSTAMP:20261012T004923Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-SUMMARY:🎃 Halloween in St. Wendel
-LOCATION:
-DESCRIPTION:Feed: Long weekends · Status: Booked\nNotion: https://app.noti
- on.com/3f7ff850d5ef8121ae1bfe99a0b8dd61
+LOCATION:Angel's Hotel am Fruchtmarkt\, St. Wendel (Saarland)
+DESCRIPTION:Stayed 28–30 Sep 2026. Rated 8/10\, full review on the place 
+ page.\nhttps://www.angelshotel-fruchtmarkt.de/\nFeed: Long weekends\nNotio
+ n: https://app.notion.com/3f7ff850d5ef813da0cef8d4d477ba87
+URL:https://www.angelshotel-fruchtmarkt.de/
 CATEGORIES:Long weekends
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef8166a5e4c44e9ea7c776@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261103
 SUMMARY:Kappeskerb & Weinlesefest\, Eltville
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81f8825cf8abc6533331
+LOCATION:Eltville-Hattenheim (Rheingau)
+DESCRIPTION:Wine festival · Late Oct / early Nov (2026: 30 Oct – 2 Nov)\
+ nhttps://www.eltville.de/freizeit-tourismus/kultur-veranstaltungen/feste-e
+ vents/\nFeed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef81f
+ 8825cf8abc6533331
+URL:https://www.eltville.de/freizeit-tourismus/kultur-veranstaltungen/feste
+ -events/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:place-3f6ff850d5ef81e6ab5ff60873cf18cb@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:🎃 Halloween in St. Wendel
+LOCATION:Angel's Hotel am Fruchtmarkt\, St. Wendel (Saarland)
+DESCRIPTION:Booked\, check-in 30 Oct\, check-out 1 Nov. Request a room away
+  from the elevator.\nhttps://www.angelshotel-fruchtmarkt.de/\nFeed: Long w
+ eekends\nNotion: https://app.notion.com/3f7ff850d5ef8121ae1bfe99a0b8dd61
+URL:https://www.angelshotel-fruchtmarkt.de/
+CATEGORIES:Long weekends
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:event-3f6ff850d5ef81229f2ef7d4b21cbbf7@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20270103
 SUMMARY:Mosel-Wein-Nachts-Markt – Germany's only underground Christmas ma
  rket\, in historic wine cellars
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 8103806ef1b894587c0a
+LOCATION:Traben-Trarbach (Mosel)
+DESCRIPTION:Christmas market · Late Nov – early Jan\, weekends (2026/27:
+  20 Nov – 2 Jan)\nhttps://www.traben-trarbach.de/de/moselweinnachtsmarkt
+ .html\nFeed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef8103
+ 806ef1b894587c0a
+URL:https://www.traben-trarbach.de/de/moselweinnachtsmarkt.html
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef814281d8d62f38076dec@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261221
 SUMMARY:Weihnachtsmarkt in the old-town lanes (giant Advent calendar\, torc
  h swim 5 Dec)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 819ebfacdde142642070
+LOCATION:Bernkastel-Kues (Mosel)
+DESCRIPTION:Christmas market · Late Nov – ~20 Dec (2026: 20 Nov – 20 D
+ ec)\nhttps://www.bernkastel.de/veranstaltung/weihnachtsmarkt-in-bernkastel
+ -kues/event.html\nFeed: Local events\nNotion: https://app.notion.com/3f7ff
+ 850d5ef819ebfacdde142642070
+URL:https://www.bernkastel.de/veranstaltung/weihnachtsmarkt-in-bernkastel-k
+ ues/event.html
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef8173bc7cc7a3c3ced545@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Krampuslauf Schladming
+LOCATION:Schladming (Styria\, Austria)
+DESCRIPTION:Krampus · Sat 21 Nov 2026: entry from 16:00\, procession 19:00
+ –22:00. Tickets €8/€5 presale\, €10 at the door\nhttps://krampusla
+ uf-schladming.at/\nFeed: Local events\nNotion: https://app.notion.com/3f7f
+ f850d5ef8108bb54cf49e7c7ac93
+URL:https://krampuslauf-schladming.at/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef814481b1c9f402545b44@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Deidesheimer Advent (Christmas market)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 8115b037c725d976db53
+LOCATION:Deidesheim (Pfalz)
+DESCRIPTION:Christmas market · All four Advent weekends (2026: 27 Nov – 
+ 20 Dec)\nhttps://www.deidesheim.de/veranstaltungen/weihnachtsmarkt-deidesh
+ eimer-advent.html\nFeed: Local events\nNotion: https://app.notion.com/3f7f
+ f850d5ef8115b037c725d976db53
+URL:https://www.deidesheim.de/veranstaltungen/weihnachtsmarkt-deidesheimer-
+ advent.html
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef8188b216eb7d9cc0dff0@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Freinsheimer Weihnachtsmarkt
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 813ea935c750b64388a2
+LOCATION:Freinsheim (Pfalz)
+DESCRIPTION:Christmas market · All four Advent weekends\, Fri–Sun (2026:
+  from 27 Nov)\nhttps://www.urlaubsregion-freinsheim.de/de/veranstaltung/we
+ ihnachtsmarkt-freinsheim\nFeed: Local events\nNotion: https://app.notion.c
+ om/3f7ff850d5ef813ea935c750b64388a2
+URL:https://www.urlaubsregion-freinsheim.de/de/veranstaltung/weihnachtsmark
+ t-freinsheim
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef81ff922fd927b14d4752@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261224
 SUMMARY:Gengenbacher Adventsmarkt on the historic market square
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81a284e1cb623d2b3431
+LOCATION:Gengenbach (Black Forest\, Kinzig valley)
+DESCRIPTION:Christmas market · Late Nov – 23 Dec (2026: 27 Nov – 23 De
+ c)\nhttps://www.gengenbach.info/gengenbach-entdecken/adventskalender-1\nFe
+ ed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef81a284e1cb623
+ d2b3431
+URL:https://www.gengenbach.info/gengenbach-entdecken/adventskalender-1
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef811c9ff7c72bf1e50f97@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Michelstädter Weihnachtsmarkt
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81d6a4eaf1647eded7ee
+LOCATION:Michelstadt (Odenwald)
+DESCRIPTION:Christmas market · Late Nov – ~20 Dec\, closed Mon/Tue (2026
+ : 27 Nov – 20 Dec)\nhttps://www.michelstadt.de/weihnachtsmarkt/\nFeed: L
+ ocal events\nNotion: https://app.notion.com/3f7ff850d5ef81d6a4eaf1647eded7
+ ee
+URL:https://www.michelstadt.de/weihnachtsmarkt/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef814db294cb33f0338236@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Bärbele- und Klausentreiben Sonthofen
+LOCATION:Sonthofen\, Oberallgäu (Bavaria)
+DESCRIPTION:Krampus · Fri 4 Dec Bärbeletreiben\; Sat 5 & Sun 6 Dec Klause
+ ntreiben\, evenings from ~18:30–20:00 until ~22:00\nhttps://www.stadt-so
+ nthofen.de/kultur-freizeit/tradition-und-brauchtum/klausentreiben/\nFeed: 
+ Local events\nNotion: https://app.notion.com/3f7ff850d5ef816bab78d23836dd5
+ fb6
+URL:https://www.stadt-sonthofen.de/kultur-freizeit/tradition-und-brauchtum/
+ klausentreiben/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef8167b89ed8c8f104cae6@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Bad Mitterndorfer Nikolospiel
+LOCATION:Bad Mitterndorf\, Ausseerland (Styria\, Austria)
+DESCRIPTION:Krampus · Sat 5 Dec 2026: 17:00 Krungl → 18:15 Zauchenwirt 
+ → 19:00 Tauplitzalm Alpenstraße car park → 20:00 Hotel Grimmingblick 
+ → 20:45 devotion → 21:00 Hauptplatz\nhttps://www.nikolospiel.at/auffue
+ hrungsorte/\nFeed: Local events\nNotion: https://app.notion.com/3f7ff850d5
+ ef8120bf1ceb5f233cb9f0
+URL:https://www.nikolospiel.at/auffuehrungsorte/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef818b9597e213cfe0d99d@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Buttnmandl & Kramperl: Gebirgsjäger St Nicholas procession
+LOCATION:Bischofswiesen → Berchtesgaden (Bavaria)
+DESCRIPTION:Krampus · Sat 5 Dec 2026: mulled wine from 13:30 at the Gebirg
+ sjäger barracks (Strub)\, departs 14:00\, Schlossplatz Berchtesgaden ~15:
+ 15\nhttps://www.berchtesgaden.de/staade-zeit/buttnmandl-kramperl\nFeed: Lo
+ cal events\nNotion: https://app.notion.com/3f7ff850d5ef81cea82ad0e057c67943
+URL:https://www.berchtesgaden.de/staade-zeit/buttnmandl-kramperl
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef818c8573f97ee0879b9d@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261214
 SUMMARY:Eltviller Weihnachtsmarkt & Eberbacher Weihnacht
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81ba869adbedf7e945c4
+LOCATION:Eltville-Hattenheim (Rheingau)
+DESCRIPTION:Christmas market · Advent weekends (2026: 5–6 Dec\; Eberbach
+  5–6 & 12–13 Dec)\nhttps://www.eltville.de/freizeit-tourismus/kultur-v
+ eranstaltungen/feste-events/\nFeed: Local events\nNotion: https://app.noti
+ on.com/3f7ff850d5ef81ba869adbedf7e945c4
+URL:https://www.eltville.de/freizeit-tourismus/kultur-veranstaltungen/feste
+ -events/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef81898b5bf2bdf9f525bd@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Gasteiner Krampuslauf – ~100 Krampuspassen\, house to house
+LOCATION:Gasteinertal\, Salzburger Land (Austria)
+DESCRIPTION:Krampus · Every year 5 & 6 Dec\, from ~16:30 until late (2026:
+  Sat 5 – Sun 6 Dec). 5 Dec mostly in the centres of Bad Gastein\, Bad Ho
+ fgastein and Dorfgastein\; 6 Dec in the outlying areas\nhttps://www.gastei
+ nertal.com/krampuslauf/\nFeed: Local events\nNotion: https://app.notion.co
+ m/3f7ff850d5ef817e805ee435d3556955
+URL:https://www.gasteinertal.com/krampuslauf/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef81b087c5dd873f7335f8@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Kirchseeoner Perchtenlauf: Kirchseeon Süd
+LOCATION:Kirchseeon (Upper Bavaria)
+DESCRIPTION:Krampus · Sat 5 Dec 2026\, 15:00 from Theodor-Haagn-Str.\nhttp
+ s://maskeum.de/laufplan-perchten/\nFeed: Local events\nNotion: https://app
+ .notion.com/3f7ff850d5ef811984c5d0d0ebe54f13
+URL:https://maskeum.de/laufplan-perchten/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef81e6938cf84005d01472@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Klosn in Stilfs
+LOCATION:Stilfs\, Vinschgau (South Tyrol\, Italy)
+DESCRIPTION:Krampus · Sat 5 Dec 2026\, from 14:00 in the village centre\, 
+ then Ave Maria bell and the Klosnfest in the evening\nhttps://www.suedtiro
+ l.com/event/377/klosn-in-stilfs\nFeed: Local events\nNotion: https://app.n
+ otion.com/3f7ff850d5ef81dcae13f8ab6672d1e2
+URL:https://www.suedtirol.com/event/377/klosn-in-stilfs
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef81ef9890ce0d289c9c5b@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Lauf der Krampusse at the Salzburger Christkindlmarkt
+LOCATION:Domplatz\, Salzburg (Austria)
+DESCRIPTION:Krampus · Sat 5 Dec 2026\, expected around 19:00\, big stage o
+ n the Domplatz\nhttps://christkindlmarkt.co.at/wichtige-termine/\nFeed: Lo
+ cal events\nNotion: https://app.notion.com/3f7ff850d5ef812c9749ca303c8ab54d
+URL:https://christkindlmarkt.co.at/wichtige-termine/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef8145be4ecfea81b787ac@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Schlender-Advent on the historic market square
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81f2a6f6fab93aad56c2
+LOCATION:Bacharach (Middle Rhine)
+DESCRIPTION:Christmas market · 2nd Advent weekend (2026: 5–6 Dec)\nhttps
+ ://www.bacharach.de/freizeit/veranstaltungen\nFeed: Local events\nNotion: 
+ https://app.notion.com/3f7ff850d5ef81f2a6f6fab93aad56c2
+URL:https://www.bacharach.de/freizeit/veranstaltungen
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef81088454d0c500b0b8df@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Kirchseeoner Perchtenlauf: Spannleitenberg
+LOCATION:Kirchseeon (Upper Bavaria)
+DESCRIPTION:Krampus · Sun 6 Dec 2026\, 16:00 from Gartenweg\nhttps://maske
+ um.de/laufplan-perchten/\nFeed: Local events\nNotion: https://app.notion.c
+ om/3f7ff850d5ef8131b99efbbb24e80f91
+URL:https://maskeum.de/laufplan-perchten/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef8120bda7e399ca2b889f@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Nikolo & Kinderkrampus at the Christkindlmarkt
+LOCATION:Domplatz\, Salzburg (Austria)
+DESCRIPTION:Krampus · Sun 6 Dec 2026\, 15:30 (child-friendly)\nhttps://chr
+ istkindlmarkt.co.at/wichtige-termine/\nFeed: Local events\nNotion: https:/
+ /app.notion.com/3f7ff850d5ef81329350c6c850603c50
+URL:https://christkindlmarkt.co.at/wichtige-termine/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef810f9e3fc84c943f1efc@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261214
 SUMMARY:Bad Wildbader Weihnachtsmarkt (Kurpark\, Trinkhallenplatz)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81db9517f17f90da85ec
+LOCATION:Bad Wildbad (Northern Black Forest)
+DESCRIPTION:Christmas market · December (2026: 10–13 Dec)\nhttps://www.b
+ ad-wildbad.de/de/veranstaltungen/bad-wildbader-weihnachtsmarkt-id_17874/\n
+ Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef81db9517f17
+ f90da85ec
+URL:https://www.bad-wildbad.de/de/veranstaltungen/bad-wildbader-weihnachtsm
+ arkt-id_17874/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef8173b413faeddfde2d13@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Kirchseeoner Perchtenlauf: Kirchseeon Nord
+LOCATION:Kirchseeon (Upper Bavaria)
+DESCRIPTION:Krampus · Sat 12 Dec 2026\, 15:30 from the Waldfriedhof\nhttps
+ ://maskeum.de/laufplan-perchten/\nFeed: Local events\nNotion: https://app.
+ notion.com/3f7ff850d5ef813085defbc926fb2b79
+URL:https://maskeum.de/laufplan-perchten/
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef81ba9613c022e2d80cf6@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Krampuslauf at the Münchner Christkindlmarkt
+LOCATION:Munich old town (Marienplatz)
+DESCRIPTION:Krampus · Sun 13 Dec 2026\, 15:00–17:00\, from Augustinerstr
+ aße to Viktualienmarkt / Altes Rathaus\nhttps://www.christkindlmarkt-muen
+ chen.de/programm/krampuslauf\nFeed: Local events\nNotion: https://app.noti
+ on.com/3f7ff850d5ef818d8274f4192df5f7ed
+URL:https://www.christkindlmarkt-muenchen.de/programm/krampuslauf
+CATEGORIES:Local events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3f7ff850d5ef8117b58fed567d53c018@greta-main-calendar
+DTSTAMP:20261012T010022Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Perchtenlauf at the Christkindlmarkt (1st Rauhnacht)
+LOCATION:Domplatz\, Salzburg (Austria)
+DESCRIPTION:Krampus · Mon 21 Dec 2026\, 19:00\, big stage on the Domplatz\
+ nhttps://christkindlmarkt.co.at/wichtige-termine/\nFeed: Local events\nNot
+ ion: https://app.notion.com/3f7ff850d5ef812da944f5cc991fcd8a
+URL:https://christkindlmarkt.co.at/wichtige-termine/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef8180ad86ce69bafd0688@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270524
 SUMMARY:Vierthälermarkt – medieval market on the Rhine promenade (every 
  two years)
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81349e6fd6be58b78ff3
+LOCATION:Bacharach (Middle Rhine)
+DESCRIPTION:Medieval · May (next: 22–23 May 2027)\nhttps://www.bacharach
+ .de/freizeit/veranstaltungen\nFeed: Local events\nNotion: https://app.noti
+ on.com/3f7ff850d5ef81349e6fd6be58b78ff3
+URL:https://www.bacharach.de/freizeit/veranstaltungen
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef81b595ecccc8eb87b28a@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Steeger Weinblütenfest
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 815b9266ccdc58633d9f
+LOCATION:Bacharach (Middle Rhine)
+DESCRIPTION:Wine festival · June (2027: 18–20 Jun)\nhttps://www.bacharac
+ h.de/freizeit/veranstaltungen\nFeed: Local events\nNotion: https://app.not
+ ion.com/3f7ff850d5ef815b9266ccdc58633d9f
+URL:https://www.bacharach.de/freizeit/veranstaltungen
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:event-3f6ff850d5ef81bf8036ccfb43104aae@greta-main-calendar
-DTSTAMP:20261012T004923Z
+DTSTAMP:20261012T010022Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270706
 SUMMARY:Sekt- und Biedermeierfest\, Eltville riverbank & castle rose garden
-LOCATION:
-DESCRIPTION:Feed: Local events\nNotion: https://app.notion.com/3f7ff850d5ef
- 81b99babd87d8b832ad3
+LOCATION:Eltville-Hattenheim (Rheingau)
+DESCRIPTION:Town festival · First weekend of July (2027: 2–5 Jul)\nhttps
+ ://www.eltville.de/freizeit-tourismus/kultur-veranstaltungen/feste-events/
+ sekt-und-biedermeierfest/\nFeed: Local events\nNotion: https://app.notion.
+ com/3f7ff850d5ef81b99babd87d8b832ad3
+URL:https://www.eltville.de/freizeit-tourismus/kultur-veranstaltungen/feste
+ -events/sekt-und-biedermeierfest/
 CATEGORIES:Local events
 TRANSP:TRANSPARENT
 END:VEVENT
